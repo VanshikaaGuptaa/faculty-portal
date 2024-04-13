@@ -1,3 +1,3 @@
-run server.js
-open faculty-portal in trminal
-npm start
+1.run server.js
+2.open faculty-portal in trminal
+3.npm start
